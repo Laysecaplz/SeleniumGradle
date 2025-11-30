@@ -9,7 +9,7 @@
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.project.explorer.showNonJavaResources": true,
     "files.exclude": {
-         "**/bin": true,
+    "**/bin": true,
     "**/*.class": true
 
 }
